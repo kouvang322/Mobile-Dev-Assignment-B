@@ -1,0 +1,15 @@
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\bin\Debug\net6.0\Assignment_B.exe
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\bin\Debug\net6.0\Assignment_B.deps.json
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\bin\Debug\net6.0\Assignment_B.runtimeconfig.json
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\bin\Debug\net6.0\Assignment_B.dll
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\bin\Debug\net6.0\Assignment_B.pdb
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\obj\Debug\net6.0\Assignment_B.csproj.AssemblyReference.cache
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\obj\Debug\net6.0\Assignment_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\obj\Debug\net6.0\Assignment_B.AssemblyInfoInputs.cache
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\obj\Debug\net6.0\Assignment_B.AssemblyInfo.cs
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\obj\Debug\net6.0\Assignment_B.csproj.CoreCompileInputs.cache
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\obj\Debug\net6.0\Assignment_B.dll
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\obj\Debug\net6.0\refint\Assignment_B.dll
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\obj\Debug\net6.0\Assignment_B.pdb
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\obj\Debug\net6.0\Assignment_B.genruntimeconfig.cache
+C:\Users\Kouva\Desktop\Mobile Development\Assignment_B\obj\Debug\net6.0\ref\Assignment_B.dll
