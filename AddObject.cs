@@ -149,9 +149,7 @@ namespace Assignment_B
 
             while (string.IsNullOrWhiteSpace(userEnterName))
             {
-                Console.WriteLine("Please enter a valid name.");
-                Console.WriteLine("Enter a name for new animal:");
-                userEnterName = Console.ReadLine();
+                userEnterName = EnterName();
             }
 
             Console.WriteLine("What is the teacher's age?");
