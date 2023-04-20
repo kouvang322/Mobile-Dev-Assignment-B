@@ -75,15 +75,13 @@ namespace Assignment_B
 
         public Cat newCat()
         {
-            Console.WriteLine("What is the cat's name? :");
+            Console.WriteLine("Enter a name for new animal:");
             userEnterName = Console.ReadLine();
 
 
             while (string.IsNullOrWhiteSpace(userEnterName))
             {
-                Console.WriteLine("Please enter a name for the animal.");
-                Console.WriteLine("What is the cat's name? :");
-                userEnterName = Console.ReadLine();
+                userEnterName = EnterName();
             }
 
 
@@ -109,14 +107,12 @@ namespace Assignment_B
             bool enteredCorrectInput = false;
 
 
-            Console.WriteLine("What is the dog's name?");
+            Console.WriteLine("Enter a name for new animal: ");
             userEnterName = Console.ReadLine();
 
             while (string.IsNullOrWhiteSpace(userEnterName))
             {
-                Console.WriteLine("Please enter a name for the animal.");
-                Console.WriteLine("What is the dog's name? :");
-                userEnterName = Console.ReadLine();
+                userEnterName = EnterName();
             }
 
             do
@@ -148,13 +144,13 @@ namespace Assignment_B
         public Teacher newTeacher()
         {
 
-            Console.WriteLine("What is the teacher's name? :");
+            Console.WriteLine("Enter a name for new animal:");
             userEnterName = Console.ReadLine();
 
             while (string.IsNullOrWhiteSpace(userEnterName))
             {
-                Console.WriteLine("Please enter a name for the animal.");
-                Console.WriteLine("What is the teacher's name? :");
+                Console.WriteLine("Please enter a valid name.");
+                Console.WriteLine("Enter a name for new animal:");
                 userEnterName = Console.ReadLine();
             }
 
@@ -207,6 +203,15 @@ namespace Assignment_B
 
             } while (enteredCorrectInput == false);
 
+        }
+
+        public string EnterName()
+        {
+            Console.WriteLine("Please enter a valid name.");
+            Console.WriteLine("Enter a name for new animal: ");
+            string userNameInput = Console.ReadLine();
+
+            return userNameInput;
         }
 
     }

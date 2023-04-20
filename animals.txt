@@ -1,3 +1,2 @@
-Bean | Bark
-Charlie | Meow
-Stacy | Don't forget to do the assigned reading!
+kou | Meow
+tou | Bark
